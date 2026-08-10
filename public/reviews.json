@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "review_id": "fallback_1",
+      "name": "Marlene H.",
+      "rating": 5,
+      "text": "Matthias hat unsere Hochzeit so wunderschön festgehalten – die Bilder sind einfach atemberaubend.",
+      "date": "2024-09-14",
+      "profile_photo_url": ""
+    },
+    {
+      "review_id": "fallback_2",
+      "name": "Thomas B.",
+      "rating": 5,
+      "text": "Tolle Drohnenaufnahmen für unser Firmenevent. Schnelle Kommunikation, top Ergebnis.",
+      "date": "2024-11-03",
+      "profile_photo_url": ""
+    },
+    {
+      "review_id": "fallback_3",
+      "name": "Sandra K.",
+      "rating": 5,
+      "text": "Die Fotos für unsere Website sind genau das, was wir uns vorgestellt haben.",
+      "date": "2025-01-22",
+      "profile_photo_url": ""
+    }
+  ]
+}
